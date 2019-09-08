@@ -1,0 +1,25 @@
+{
+  "name": "jasonschedule",
+  "version": "1.0.0",
+  "description": "Line Bot App",
+  "main": "index.js",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwilyandi19/jasonschedule.git"
+  },
+  "author": "HunterJJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwilyandi19/jasonschedule/issues"
+  },
+  "homepage": "https://github.com/jwilyandi19/jasonschedule#readme"
+}
